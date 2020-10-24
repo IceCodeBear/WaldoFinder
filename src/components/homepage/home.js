@@ -11,7 +11,7 @@ const Home = () => (
         />
 
         <Container text>
-            <Header as="h1">Welcome to CI/CD Guide</Header>
+            <Header as="h1">Welcome to Waldo Finder</Header>
         </Container>
     </div>
 );
